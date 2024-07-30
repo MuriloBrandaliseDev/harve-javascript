@@ -16,6 +16,4 @@ function calcular (event) {
         resultado.textContent = "aluno reprovado";
     }
 
-
-
 }
