@@ -20,13 +20,13 @@ function calcular(event) {
         resultado.innerHTML = `<span class="reprovado">Dados inválidos</span>`;
     } else if (nota >= 7) {
         resultado.innerHTML = `
-        <p> O ${aluno} tirou a nota ${nota}.<span class="aprovado">Aluno APROVADO</span></p>`;
+        <p> O ${aluno} tirou a nota ${nota}.<span class="aprovado"> Aluno APROVADO</span></p>`;
     } else {
         resultado.innerHTML= `
-        <p> O ${aluno} tirou a nota ${nota}. <span class="reprovado">Aluno REPROVADO</span></p>`;
+        <p> O ${aluno} tirou a nota ${nota}. <span class="reprovado"> Aluno REPROVADO</span></p>`;
     } if (faltas >= 10) {
         resultado.innerHTML = `
-        <p> O ${aluno} tem mais 10 ou mais ${faltas}. <span class="reprovado">Aluno REPROVADO</span></p>`; 
+        <p> O ${aluno} tem mais 10 ou mais ${faltas} faltas! <span class="reprovado"> Aluno REPROVADO</span></p>`; 
     }
 
 }

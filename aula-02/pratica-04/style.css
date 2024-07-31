@@ -70,3 +70,21 @@ input {
   color: #ffa600;
   font-weight: bold;
 }
+
+.recuperacao{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  color: blue;
+}
+
+.aprovado{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  color: rgb(0, 149, 2);
+}
+
+.reprovado{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  color: rgb(165, 5, 2);
+}
