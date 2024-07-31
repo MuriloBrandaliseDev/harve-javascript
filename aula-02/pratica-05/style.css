@@ -77,3 +77,8 @@ input {
   color: #ffa600;
   font-weight: bold;
 }
+
+.resultados{
+  font-size: 30px;
+  color: green;
+}

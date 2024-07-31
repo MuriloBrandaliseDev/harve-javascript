@@ -70,3 +70,9 @@ input {
   color: #ffa600;
   font-weight: bold;
 }
+
+.reprovado{
+  color: green;
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
