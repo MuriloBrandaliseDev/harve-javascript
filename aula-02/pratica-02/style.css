@@ -55,12 +55,12 @@ input {
   cursor: pointer;
 }
 
-#aprovado {
+.aprovado {
   color: #00a2ff;
   font-weight: bold;
 }
 
-#reprovado {
+.reprovado {
   color: #ff0040;
   font-weight: bold;
 }
