@@ -60,3 +60,8 @@ input {
   color: #ff0040;
   font-weight: bold;
 }
+
+.resultado{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+}
